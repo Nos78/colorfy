@@ -1,0 +1,19 @@
+[project]
+name = "colorfy"
+version = "0.0.1"
+authors = [
+  { name="Noscere", email="noscere@codin.gq" }
+]
+description = "A python library to provide colour to your otherwise boring, plain old dull black & white terminal."
+readme = "README.md"
+requires-python = ">3"
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: Apache Software License",
+  "Operating System :: OS Independent"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/nos78/colorfy"
+"Bug Tracker" = "https://github.com/nos78/colorfy/issues"
+
